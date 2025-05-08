@@ -1,11 +1,14 @@
 [![GitHub total downloads](https://img.shields.io/github/downloads/kagikn/GlowingPickupsSA/total.svg?style=flat-square)](https://github.com/kagikn/GlowingPickupsSA/releases)
 [![License](https://img.shields.io/github/license/kagikn/GlowingPickupsSA?style=flat-square)](./LICENSE)
 
-# GlowingPickupsSA
+# GlowingPickupsSAClassic
 GlowingPickupsSA makes pickups glow in Grand Theft Auto: San Andreas, just like in Vice City, and Liberty City Stories (Glowing mechanism is almost the same as in Vice City Stories as well, but some corona textures are quite different).
 More specifically, adds coronas for all pickups and emits lights from regular pickups in almost the same way as in Vice City.
 Main differences from VC would be corona images and some additional corona colors (color filters may make you feel different about the same corona color, so be aware).
 
+This fork changes the colors to better match the Classic Pickups Addon in [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes/).
+
+TO-DO: Put actual updated previews
 <img src="demos/glowing-weapons.gif">
 <img src="demos/glowing-heart.gif">
 <img src="demos/glowing-money-and-pistol.gif">
